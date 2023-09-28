@@ -5,12 +5,7 @@ export const MenuData = [
     cName: "nav-links",
     icon: "fa-solid fa-house-user"
   },
-  {
-    title: "My Properties",
-    url: "#",
-    cName: "nav-links",
-    icon: "fa-solid fa-building"
-  },
+
   {
     title: "About",
     url: "#",
