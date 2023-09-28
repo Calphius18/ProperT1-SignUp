@@ -1,0 +1,122 @@
+.home {
+  width: 100%;
+  height: 130vh;
+  background: rgb(233, 229, 229);
+  padding-top: 8%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.home-left {
+  margin-top: 2%;
+  margin-left: 2%;
+}
+h6 {
+  margin-right: 90%;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: Georgia;
+}
+.navigate {
+  margin-left: -75%;
+  font-size: 12px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.information {
+  color: #2b83cc;
+}
+
+legend {
+  margin-left: -210px;
+  color: #2b83cc;
+}
+.form-field {
+  margin: 35px 5px;
+  display: grid;
+  flex-direction: row;
+  align-items: center;
+}
+input,
+textarea,
+select {
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid #000;
+  background: #ffffff;
+  color: black;
+}
+.fieldset {
+  max-width: 600px;
+  padding: 10px 10px;
+  height: 600px;
+  border-radius: 10px;
+}
+.fieldset1 {
+  max-width: 450px;
+  padding: 20px 20px;
+  height: 600px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 7px;
+  margin-left: 60%;
+  margin-top: -49%;
+}
+label {
+  max-width: 150px;
+  font-family: Tahoma;
+  font-weight: bold;
+}
+.container1 {
+  margin-top: -50px;
+  margin-left: -10px;
+}
+.address {
+  margin-top: -20px;
+  margin-left: 5px;
+}
+.back {
+  background-color: rgb(233, 229, 229);
+  padding: 10px;
+  border-radius: 10px;
+  color: black;
+  border: 2px;
+  font-weight: bold;
+  margin-right: 380px;
+  cursor: pointer;
+}
+.next {
+  background-color: #2b83cc;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  border: 2px;
+  font-weight: bold;
+  font-family: Tahoma;
+  margin-right: 10px;
+  border: 2px solid;
+  cursor: pointer;
+}
+h2 {
+  color: #2b83cc;
+  font-weight: bold;
+  font-family: Tahoma;
+}
+h4 {
+  font-weight: bold;
+  font-family: Tahoma;
+}
+.rose {
+  font-weight: bolder;
+}
+img {
+  width: 150px;
+  height: 100px;
+  border-radius: 10px;
+}
+.total {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+hr {
+  margin-top: 300px;
+}

@@ -1,0 +1,72 @@
+.FooterItems {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.footerbottom {
+  position: absolute;
+  width: 100%;
+  height: 150px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  display: flex;
+  background-color: white;
+  padding: 20px;
+}
+.footertop {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  margin-top: 0px;
+  display: flex;
+  justify-content: space-between;
+  background-image: url(https://img.freepik.com/premium-vector/imitation-geographical-map-black-lines-white-background-vector-design-banner_149326-3281.jpg);
+  padding: 10px;
+}
+.emailp {
+  justify-content: space-between;
+}
+.sign-up {
+  background-color: #2b83cc;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  border: 2px;
+  font-weight: absolute;
+  margin-right: 30px;
+  border: 2px solid;
+  cursor: pointer;
+}
+a {
+  color: gray;
+}
+
+input,
+textarea {
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid #000;
+  background: #ffffff;
+  color: black;
+  margin-right: 0px;
+}
+
+.logo1 {
+  color: black;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: 800;
+  margin-right: 100px;
+  margin-top: 30%;
+}
+.footer-icons i {
+  padding: 0.5rem;
+}
+ul {
+  list-style-type: none;
+}
+
+.h5 {
+  font-weight: bold;
+}
