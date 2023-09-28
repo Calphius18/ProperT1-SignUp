@@ -7,12 +7,12 @@
 .footerbottom {
   position: absolute;
   width: 100%;
-  height: 150px;
-  margin-top: 50px;
+  height: 200px;
+  margin-top: 20px;
   margin-bottom: 20px;
   display: flex;
   background-color: white;
-  padding: 20px;
+  padding: 0px;
 }
 .footertop {
   position: relative;
@@ -38,11 +38,8 @@
   border: 2px solid;
   cursor: pointer;
 }
-a {
-  color: gray;
-}
 
-input,
+#your-email,
 textarea {
   padding: 10px;
   border-radius: 10px;
